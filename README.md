@@ -21,10 +21,7 @@ Profesional con +15 años de experiencia en capacitación, investigación aplica
 Conecto comportamiento humano, operación y análisis para transformar información en insights estratégicos y accionables. 
 
 ### 🎯 Objetivo Profesional:
-Desarrollar soluciones basadas en datos que generen impacto medible en:
-- ✅ Eficiencia organizacional y optimización de procesos  
-- ✅ Toma de decisiones estratégicas basadas en evidencia
-- ✅ Bienestar colectivo y equidad social
+Evolucionar mi experiencia en formación, investigación y análisis organizacional hacia roles de Business Analytics, Reporting y Operations, contribuyendo con soluciones data-driven orientadas a negocio, experiencia de usuario y mejora continua.
 
 ### 🛠️ Stack Tecnológico:
 Python
