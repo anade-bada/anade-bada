@@ -1,10 +1,12 @@
-## ¡Hola! Soy Ana Barriga 👋
-🎯 Analista de Datos | Especialista en Comunicación Organizacional
+## ¡Hola! Soy Ana Delia Barriga 👋
+🎯 BuBusiness Analyst | Data Analytics | Organizational Insights
+Conecto comportamiento humano, operación y análisis para transformar información en insights estratégicos y accionables. 
+SQL, Python, Power BI, Tableau
 
 ### 🚀 Mi Historia Profesional
-Profesional con +12 años liderando proyectos formativos a nivel nacional en sectores educativos, salud y corporativos. Mi transición al análisis de datos combina mi experiencia en investigación de campo y desarrollo estratégico con competencias técnicas avanzadas para generar insights que impulsen el impacto social y organizacional.
+Profesional con +15 años de experiencia en capacitación, investigación aplicada y análisis de información para entornos organizacionales, educativos y financieros. Experiencia en seguimiento de indicadores, evaluación de resultados y mejora operativa, apoyando la toma de decisiones y el trabajo entre equipos multidisciplinarios. Mi fortaleza está en conectar comportamiento humano, contexto y análisis de información para generar insights claros y apoyar decisiones estratégicas. Actualmente en transición hacia Business Analytics y Reporting, fortaleciendo habilidades en SQL, Power BI, Tableau, Python y Google Sheets.
 
-### 🔭 Actualmente trabajando en un bootcam:
+### 🔭 Actualmente finalizando un bootcam:
 - Análisis de embudo y retención para plataformas e-commerce
 - Proyectos de movilidad urbana con enfoque en sostenibilidad
 - Modelos predictivos para optimización de procesos organizacionales
@@ -17,7 +19,7 @@ Profesional con +12 años liderando proyectos formativos a nivel nacional en sec
 - Estadística aplicada para toma de decisiones
 
 ### 💡 Mi Enfoque Único:
-Análisis de datos con perspectiva sistémica e interseccional - Combino mi experiencia en investigación cualitativa con técnicas cuantitativas para identificar patrones que optimizan procesos, relaciones organizacionales y generen valor social y ecónomico medible.
+Conecto comportamiento humano, operación y análisis para transformar información en insights estratégicos y accionables. 
 
 ### 🎯 Objetivo Profesional:
 Desarrollar soluciones basadas en datos que generen impacto medible en:
@@ -30,17 +32,23 @@ Python
 Pandas
 SQL
 Jupyter
+PBI
+Tableau
 
-### 👯 Busco colaborar en:
-- Proyectos de impacto económico, social con componente de datos
-- Análisis organizacional y optimización de procesos
-- Investigación aplicada en sectores educativo y salud
+### 👯 Busco colaborar como y en:
+- Business Analyst | Data Analytics
+- Business Operations Analyst
+- Reporting & Insights Analyst
+- CX / Customer Experience Analyst
+Fintech / SaaS / Tecnología / Consultoría / Organizational Insights / Business
+
 
 ### 💬 Pregúntame sobre:
 - Transición profesional hacia análisis de datos
 - Metodologías de investigación mixta (cuali-cuanti)
 - Gestión de proyectos formativos y equipos multidisciplinarios
 - Análisis de comportamiento de usuarios y cohortes
+- Identificación de patrones 
 
 ### 📫 Conectemos:
 - 📧 Email: anade.bada@gmail.com
@@ -48,5 +56,4 @@ Jupyter
 - 🌐 Portafolio: anade-bada.github.io
 
 ### ⚡ Dato curioso:
-Mi experiencia coordinando equipos multidisciplinarios me enseñó que los mejores insights surgen cuando combinas diferentes perspectivas - algo que aplico ahora al análisis de datos para encontrar patrones que otros podrían pasar por alto.
-
+Mi experiencia coordinando equipos multidisciplinarios me enseñó que los mejores insights surgen cuando integras distintas perspectivas, experiencias y formas de observar un problema. Durante años trabajé acompañando a personas y organizaciones a comprender patrones de comportamiento, resistencias y procesos de cambio. Hoy llevo esa misma capacidad al análisis de datos, conectando comportamiento humano, contexto y negocio para generar insights accionables con sentido estratégico y humano. Ir al detalle me apasiona, porque muchas veces ahí es donde aparecen las historias, patrones y oportunidades que otros pasan por alto.
