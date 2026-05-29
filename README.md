@@ -1,5 +1,5 @@
 ## ¡Hola! Soy Ana Delia Barriga 👋
-🎯Business Analyst Jr | Data Analytics | Organizational Insights
+🎯Business Analyst Jr | Data Analytics | Organizational Insights | 
 Conecto comportamiento humano, operación y análisis para transformar información en insights estratégicos y accionables. 
 
 ### 🚀 Mi Historia Profesional
