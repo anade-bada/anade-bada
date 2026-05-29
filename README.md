@@ -1,7 +1,6 @@
 ## ¡Hola! Soy Ana Delia Barriga 👋
-🎯 BuBusiness Analyst | Data Analytics | Organizational Insights
+🎯Business Analyst Jr | Data Analytics | Organizational Insights
 Conecto comportamiento humano, operación y análisis para transformar información en insights estratégicos y accionables. 
-SQL, Python, Power BI, Tableau
 
 ### 🚀 Mi Historia Profesional
 Profesional con +15 años de experiencia en capacitación, investigación aplicada y análisis de información para entornos organizacionales, educativos y financieros. Experiencia en seguimiento de indicadores, evaluación de resultados y mejora operativa, apoyando la toma de decisiones y el trabajo entre equipos multidisciplinarios. Mi fortaleza está en conectar comportamiento humano, contexto y análisis de información para generar insights claros y apoyar decisiones estratégicas. Actualmente en transición hacia Business Analytics y Reporting, fortaleciendo habilidades en SQL, Power BI, Tableau, Python y Google Sheets.
